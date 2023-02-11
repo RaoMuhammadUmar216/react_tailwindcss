@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_tailwindcss/static/css/main.6ebb9086.css",
+    "main.js": "/react_tailwindcss/static/js/main.72eea0f8.js",
+    "static/media/laptop.jpg": "/react_tailwindcss/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/react_tailwindcss/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/react_tailwindcss/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/react_tailwindcss/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/react_tailwindcss/index.html",
+    "main.6ebb9086.css.map": "/react_tailwindcss/static/css/main.6ebb9086.css.map",
+    "main.72eea0f8.js.map": "/react_tailwindcss/static/js/main.72eea0f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ebb9086.css",
+    "static/js/main.72eea0f8.js"
+  ]
+}
